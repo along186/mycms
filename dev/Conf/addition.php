@@ -1,0 +1,30 @@
+<?php 
+ return array (
+  'COOKIE_EXPIRE' => '7200',
+  'COOKIE_DOMAIN' => '',
+  'COOKIE_PATH' => '/',
+  'SESSION_PREFIX' => '',
+  'SESSION_OPTIONS' => 
+  array (
+    'domain' => '',
+  ),
+  'SHOW_ERROR_MSG' => '0',
+  'ERROR_MESSAGE' => '',
+  'ERROR_PAGE' => '',
+  'URL_CASE_INSENSITIVE' => false,
+  'URL_MODEL' => 0,
+  'URL_PATHINFO_DEPR' => '/',
+  'URL_HTML_SUFFIX' => '',
+  'TOKEN_ON' => false,
+  'TOKEN_NAME' => '',
+  'TOKEN_TYPE' => '',
+  'PAGE_LISTROWS' => '',
+  'VAR_PAGE' => 'page',
+  'DEFAULT_GROUP' => 'Contents',
+  'DEFAULT_TIMEZONE' => 'PRC',
+  'DEFAULT_AJAX_RETURN' => 'JSON',
+  'DEFAULT_FILTER' => '',
+  'DEFAULT_LANG' => 'zh-cn',
+  'DATA_CACHE_TYPE' => 'File',
+  'SESSION_AUTO_START' => '0',
+);

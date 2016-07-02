@@ -1,0 +1,1 @@
+<div class="bottom90"><a href="index.php?a=lists&catid=29"><img src="{$config_siteurl}statics/default/images/left_pic.jpg" /></a></div>

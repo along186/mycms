@@ -1,0 +1,1 @@
+CREATE TABLE `@IITcms@@zhubiao@` ( `userid` MEDIUMINT(8) unsigned NOT NULL, UNIQUE KEY (`userid`) ) ENGINE=MyISAM;

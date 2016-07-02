@@ -1,0 +1,1 @@
+<?php if (!defined('IIT_VERSION')) exit(); ?>投票首页

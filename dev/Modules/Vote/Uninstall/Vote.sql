@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS `IITcms_vote`;
+DROP TABLE IF EXISTS `IITcms_vote_data`;
+DROP TABLE IF EXISTS `IITcms_vote_option`;
